@@ -12,7 +12,7 @@ This project is a fun interactive animation where an electric monster follows th
 
 ## Demo Video
 
-![Demo Video](./demo-video.gif)
+![Demo Video](demo-video.gif)
 
 ## Features
 - An electric monster that reacts to mouse movements.
