@@ -10,6 +10,10 @@
 
 This project is a fun interactive animation where an electric monster follows the movements of your mouse on the screen. It utilizes HTML5 Canvas, CSS, and JavaScript to create a visually appealing experience.
 
+## Demo Video
+
+![Demo Video](./assets/demo-video.gif)
+
 ## Features
 - An electric monster that reacts to mouse movements.
 - Dynamic tentacle animations with colorful effects.
